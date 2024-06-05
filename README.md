@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate in a Community
 - 📫 How to reach me, Text me
+  
 <big>Learned So Far</big>
 - Java
 - HTml
